@@ -4,7 +4,7 @@ const xapi = require('xapi');
 const widgetToDomainMap = {
   'fwbx': '@meetingsite.webex.com',
   'cwbx': '@webex.com',
-  'mst': '.tennantID@m.webex.com',
+  'cvi': '.tennantID@m.webex.com',
   'zoom': '@zoomcrc.com'
 };
 
