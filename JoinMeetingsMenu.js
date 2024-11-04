@@ -2,9 +2,9 @@ const xapi = require('xapi');
 
 // Define the mapping of widget IDs to SIP domains
 const widgetToDomainMap = {
-  'fwbx': '@frbmeetings.webex.com',
+  'fwbx': '@meetingsite.webex.com',
   'cwbx': '@webex.com',
-  'mst': '.frbmeetings@m.webex.com',
+  'mst': '.tennantID@m.webex.com',
   'zoom': '@zoomcrc.com'
 };
 
