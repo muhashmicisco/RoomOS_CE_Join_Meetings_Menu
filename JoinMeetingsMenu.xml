@@ -1,0 +1,51 @@
+<Extensions>
+  <Version>1.11</Version>
+  <Panel>
+    <Order>1</Order>
+    <PanelId>panel_1</PanelId>
+    <Location>HomeScreen</Location>
+    <Icon>Lightbulb</Icon>
+    <Name>Join Meeting</Name>
+    <ActivityType>Custom</ActivityType>
+    <Page>
+      <Name>Join a meeting</Name>
+      <Row>
+        <Name>Row</Name>
+        <Widget>
+          <WidgetId>fwbx</WidgetId>
+          <Name>Fed Webex</Name>
+          <Type>Button</Type>
+          <Options>size=2</Options>
+        </Widget>
+      </Row>
+      <Row>
+        <Name>Row</Name>
+        <Widget>
+          <WidgetId>cwbx</WidgetId>
+          <Name>Commercial Webex</Name>
+          <Type>Button</Type>
+          <Options>size=2</Options>
+        </Widget>
+      </Row>
+      <Row>
+        <Name>Row</Name>
+        <Widget>
+          <WidgetId>mst</WidgetId>
+          <Name>MS Teams (CVI)</Name>
+          <Type>Button</Type>
+          <Options>size=2</Options>
+        </Widget>
+      </Row>
+      <Row>
+        <Name>Row</Name>
+        <Widget>
+          <WidgetId>zoom</WidgetId>
+          <Name>Zoom</Name>
+          <Type>Button</Type>
+          <Options>size=2</Options>
+        </Widget>
+      </Row>
+      <Options>hideRowNames=1</Options>
+    </Page>
+  </Panel>
+</Extensions>
