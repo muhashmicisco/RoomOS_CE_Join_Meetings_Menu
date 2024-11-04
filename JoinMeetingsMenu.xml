@@ -30,7 +30,7 @@
       <Row>
         <Name>Row</Name>
         <Widget>
-          <WidgetId>mst</WidgetId>
+          <WidgetId>cvi</WidgetId>
           <Name>MS Teams (CVI)</Name>
           <Type>Button</Type>
           <Options>size=2</Options>
