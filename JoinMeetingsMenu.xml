@@ -2,7 +2,7 @@
   <Version>1.11</Version>
   <Panel>
     <Order>1</Order>
-    <PanelId>panel_1</PanelId>
+    <PanelId>panel_join_menu</PanelId>
     <Location>HomeScreen</Location>
     <Icon>Lightbulb</Icon>
     <Name>Join Meeting</Name>
