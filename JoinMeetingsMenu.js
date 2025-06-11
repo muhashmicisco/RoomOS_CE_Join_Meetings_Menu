@@ -1,4 +1,4 @@
-const xapi = require('xapi');
+import xapi from 'xapi';
 
 // Define the mapping of widget IDs to SIP domains
 const widgetToDomainMap = {
